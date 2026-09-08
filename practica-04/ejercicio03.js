@@ -71,4 +71,4 @@ rl.question('Seleccione una opción (1-3): ', (opcion) => {
             console.log('Opción no válida');
             rl.close();
     }
-});
+}); 
