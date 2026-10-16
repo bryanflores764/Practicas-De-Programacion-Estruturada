@@ -16,7 +16,6 @@ Muestre: nombre, calificación original, bonificación aplicada y calificación 
 // Importar el módulo readline para solicitar datos al usuario
 const readline = require('readline');
 
-// Crear la interfaz de lectura para entrada y salida de datos
 const rl = readline.createInterface({
     input: process.stdin,
     output: process.stdout

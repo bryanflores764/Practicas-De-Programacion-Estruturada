@@ -14,7 +14,6 @@ total y cuántos números se ingresaron.
 // Importar readline-sync para entrada de datos síncrona
 const readlineSync = require('readline-sync');
 
-// Variables para la suma y el contador
 let suma = 0;
 let contador = 0;
 
